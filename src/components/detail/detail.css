@@ -1,0 +1,4 @@
+@import "~css-vars";
+.m-detail__title {
+  color: $primary;
+}
